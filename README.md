@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/gK9q9fD.png" width="200"/>
-</div>
-
 <div align="center">
   <h1 align="center">Oi, eu sou o Eduardo Lolli! 👋</h1>
   <p align="center">
