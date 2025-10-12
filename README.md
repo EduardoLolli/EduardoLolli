@@ -2,7 +2,6 @@
   <h1 align="center">Oi, eu sou o Eduardo Lolli! 👋</h1>
 </div>
 
----
 
 ### 💻 Sobre Mim
 
