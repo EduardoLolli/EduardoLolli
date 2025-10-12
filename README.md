@@ -1,8 +1,5 @@
 <div align="center">
   <h1 align="center">Oi, eu sou o Eduardo Lolli! 👋</h1>
-  <p align="center">
-    Um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
-  </p>
 </div>
 
 ---
