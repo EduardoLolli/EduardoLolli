@@ -19,8 +19,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      </a>
+        <br>
       <strong>JavaScript</strong>
     </td>
     <td align="center">
@@ -31,33 +33,45 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       <strong>TypeScript</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br>
+      <a href="https://react.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      </a>
+        <br>
       <strong>React</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      <a href="https://nodejs.org/pt">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      </a>
       <br>
       <strong>Node.js</strong>
     </td>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+        <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+        </a>
         <br>
         <strong>C#</strong>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET" />
-        <br>
+        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET" />
+        </a>
+          <br>
         <strong>ASP.NET</strong>
       </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      </a>
       <br>
       <strong>Docker</strong>
     </td>
     <td align="center">
+      <a href="https://git-scm.com/docs/git">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      </a>
       <br>
       <strong>Git</strong>
     </td>
