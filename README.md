@@ -19,28 +19,28 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 <table>
   <tr>
     <td align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       </a>
         <br>
       <strong>JavaScript</strong>
     </td>
     <td align="center">
-      <a href="https://www.typescriptlang.org/">
+      <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
       <a/>
       <br>
       <strong>TypeScript</strong>
     </td>
     <td align="center">
-      <a href="https://react.dev/">
+      <a href="https://react.dev/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
       </a>
         <br>
       <strong>React</strong>
     </td>
     <td align="center">
-      <a href="https://nodejs.org/pt">
+      <a href="https://nodejs.org/pt" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       </a>
       <br>
@@ -48,28 +48,28 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     </td>
     <tr>
       <td align="center">
-        <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
+        <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
         </a>
         <br>
         <strong>C#</strong>
       </td>
       <td align="center">
-        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="ASP.NET" />
         </a>
           <br>
         <strong>ASP.NET</strong>
       </td>
     <td align="center">
-      <a href="https://www.docker.com/">
+      <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
       </a>
       <br>
       <strong>Docker</strong>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/docs/git">
+      <a href="https://git-scm.com/docs/git" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       </a>
       <br>
